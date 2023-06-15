@@ -13,6 +13,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/newellb/tap-python-web-app
+      url: https://github.com/newellb-vmware/tap-python-web-app
       ref:
         branch: main
